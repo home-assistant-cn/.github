@@ -1,6 +1,7 @@
 # 家庭助理 中国
 
 ## 此仓库仅对 Home Assistant 替换更新和加载项安装做了加速处理
+- 同步构建 [Home Assistant OS](https://github.com/home-assistant-cn/operating-system) 和 [Supervisor](https://github.com/home-assistant-cn/supervisor)
 - 目前对组件做了加速处理
 - 后续会完善对Home Assistant Core，CLI，DNS，Audio， Multicast， Observer等镜像同步国内仓库
 
