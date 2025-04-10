@@ -1,5 +1,9 @@
 # 家庭助理 中国
 
+## 此仓库仅对 Home Assistant 替换更新和加载项安装做了加速处理
+- 目前对组件做了加速处理
+- 后续会完善对Home Assistant Core，CLI，DNS，Audio， Multicast， Observer等镜像同步国内仓库
+
 ## 唤醒您的家
 
 开源家庭自动化，将本地控制和隐私放在首位。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 Raspberry Pi 或本地服务器上运行。
