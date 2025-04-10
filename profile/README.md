@@ -5,6 +5,8 @@
 - 目前对组件做了加速处理
 - 后续会完善对Home Assistant Core，CLI，DNS，Audio， Multicast， Observer等镜像同步国内仓库
 
+#### 点击链接加入QQ群聊[Home Assistant 中国](https://qm.qq.com/q/Mb4G4XxRqU)
+#### QQ群号：571616943
 ## 唤醒您的家
 
 开源家庭自动化，将本地控制和隐私放在首位。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 Raspberry Pi 或本地服务器上运行。
